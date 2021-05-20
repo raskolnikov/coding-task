@@ -1,0 +1,4 @@
+rootProject.name = 'coding-task'
+include 'internal-api'
+include 'external-api'
+include 'server-core'
